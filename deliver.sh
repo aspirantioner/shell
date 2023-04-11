@@ -4,4 +4,4 @@
 git init
 git add .
 git commit -m "push"
-git push -u shell master
+git push shell master --force
